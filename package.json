@@ -1,0 +1,23 @@
+{
+  "name": "ndarray-text",
+  "version": "0.0.0",
+  "description": "Takes a 2D ndarray, and converts it to a legible string.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/ndarray-text.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cwise": "~0.4.0"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "ndarray",
+    "string",
+    "convert",
+    "roguelike"
+  ]
+}
